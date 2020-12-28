@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:app="http://schemas.android.com/apk/res/android">
+    <EditTextPreference app:key="displayIP" app:title="The Displays IP Address" app:defaultValue="192.168.188.33"/>
+</PreferenceScreen>
